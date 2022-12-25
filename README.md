@@ -15,13 +15,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>Post-Install Configuration requirements</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- VM (Virtual Machine)
+- RDP (Remote Desktop Connection)
+- Google Drive file (<a href='https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6'>Link</a>)
+- Internet Information Service (IIS) set up
+- Most importantly a Wifi connection
 
 <h2>Configuration Steps</h2>
 
