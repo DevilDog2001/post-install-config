@@ -26,7 +26,7 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 <h2>Configuration Steps</h2>
 
 <p>
-This is the configuration portion of the osTicket Lab. If you missed the previous steps here is the <a href="https://github.com/DevilDog2001/osticket-prereqs">Link.</a>
+This is the installation portion of the osTicket Lab. If you missed the previous steps here is the <a href="https://github.com/DevilDog2001/osticket-prereqs">Link.</a>
 </p>
 <p>
 <img src="https://i.imgur.com/rdVp6Sn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
