@@ -165,5 +165,5 @@ To end off the installation for osTicket. Head into the osTicket folder by <stro
 </p>
 <br />
 <p>
-This will conclude the Configurations for the osTicket Lab. The next section we will begin to use osTicket and begin with Ticket Lifecycle. Next section <a href='https://github.com/DevilDog2001/ticket-lifecycle'>Link</a> .
+This will conclude the Configurations for the osTicket Lab. The next section we will begin to use osTicket and begin with Ticket Lifecycle. Next section <a href='https://github.com/DevilDog2001/ticket-lifecycle'>Ticket Lifecycle</a> .
 </p>
