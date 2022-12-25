@@ -98,7 +98,7 @@ Once we are done with the last step we want to head to are windows search bar an
 <img src="https://i.imgur.com/KIGAyir.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After we are going to select the PHP Manager within the osTicket Home located in the center. From there select Enable or disable an extension, look for php_imap.dll is enable along with php_intl.dll and php_opcache.dll.
+After we are going to select the PHP Manager within the osTicket Home located in the center. From there <strong>select Enable or disable an extension, look for php_imap.dll is enable along with php_intl.dll and php_opcache.dll.</strong>
 </p>
 <br />
 <p>
