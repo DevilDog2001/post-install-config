@@ -108,3 +108,45 @@ After we are going to select the PHP Manager within the osTicket Home located in
 Now we head back to are wwwroot folder within file explorer, from there we select <strong>osTicket--> Then include</strong>. When inside the include folder scroll down to the ost-sampleconfig.php to ost-config.php as showen above.
 </p>
 <br />
+<p>
+<img src="https://i.imgur.com/cHBdPn3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After we changed the ost-sampleconfig.php to ost-config.php we will <strong>open its properties then --> open security --> click on advance --> then disable inheritance --> add permission --> select principle at the top left --> from there within the open box below for objects type everyone --> select Check Names --> and select ok --> on the following page select full control to give all basic permissions besides Special permissions for everyone</strong>. Your security panel should display whats above with everyone and full control under access.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/vCXWto2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+If you've reached this page all the following steps have been completed successfully. Now simple fill out all the information as showen<strong>(Document The Admin User portion as well as the Database setting username and password will be needed for the lab).</strong>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/mQPzPDm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next we head back into are <a href='https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6'>Link</a> to are google Drive for the lab and download the HeidiSQL. Go through the complete download until the finish button is prompt, after you select finish the application will open as showen above.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/GhJrKSP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Select the add button on the button left, Heidi will prompt you to put in the password you create earlier when downloading the php files within WebPlatformInstaller 5.1. Enter the password and you will be sent to the page showen.Next <strong>rightclick unnamed --> then hover over create new --> and select Database</strong>. Name that dataase osTicket<strong>(it is important the spelling is correct)</strong>.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/wvurZnY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now go back to the osTicket web browser as shown above and enter the new database name along with the respected credentials. Press install and wait for the page to load.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/aCKlFCn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once complete you will have this page appear letting you know that you've successfully created the osTicket system. The links below are for the user end and the staff as well.
+</p>
+<br />
