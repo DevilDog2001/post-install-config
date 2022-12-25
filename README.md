@@ -15,7 +15,7 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration requirements</h2>
+<h2>Installation requirements</h2>
 
 - VM (Virtual Machine)
 - RDP (Remote Desktop Connection)
@@ -23,7 +23,7 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 - Internet Information Service (IIS) set up
 - Most importantly a Wifi connection
 
-<h2>Configuration Steps</h2>
+<h2>Installation Steps</h2>
 
 <p>
 This is the installation portion of the osTicket Lab. If you missed the previous steps here is the <a href="https://github.com/DevilDog2001/osticket-prereqs">Link.</a>
