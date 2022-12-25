@@ -67,13 +67,6 @@ Next press the install button and you should recieve a prompt on a new username 
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/g209LMw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Next press the install button and you should recieve a prompt on a new username for MySQL as root and to create the password<strong>(Document these 2 pieces of information they will be used later in the lab)</strong>. Once you do press next and go through the installation, the installation should fail and prompt the page above.
-</p>
-<br />
-<p>
 <img src="https://i.imgur.com/j1MGLmo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -85,5 +78,33 @@ Now we are going to install the PHP Manger and vcredist located within the <a hr
 </p>
 <p>
 After that we head back into are <a href='https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6'>Link</a> to are google Drive for the lab and download the osTicket file. Once downloaded extract the zipped folder from the downloads into the downloads, doing this makes the zip folder create a regular folder with the same contents.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/Q3LUJgA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next head into the new and unzip folder from the osTicket download and copy the upload folder. Go to <strong>This PC--> then windows(C:)--> then inetpub--> and finally open wwwroot</strong> and paste the upload folder within. Rename that folder to osTicket.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/PlitxOI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once we are done with the last step we want to head to are windows search bar and type in IIS. Select IIS and restart IIS with the panel on the right side, after that select the drop down arrow key for VM-osTicket or whatever name you selected earlier in the lab on the <strong>left hand panel--> then select sites--> Defualt Website--> and are osTicket folder</strong> should be there.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/KIGAyir.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After we are going to select the PHP Manager within the osTicket Home located in the center. From there select Enable or disable an extension, look for php_imap.dll is enable along with php_intl.dll and php_opcache.dll.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/dRGPdWI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now we head back to are wwwroot folder within file explorer, from there we select <strong>osTicket--> Then include</strong>. When inside the include folder scroll down to the ost-sampleconfig.php to ost-config.php as showen above.
 </p>
 <br />
