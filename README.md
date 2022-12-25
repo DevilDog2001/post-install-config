@@ -157,3 +157,10 @@ Once complete you will have this page appear letting you know that you've succes
 Final step, head back to the folder where we were in the include folder. From there <strong>Rightclick properties--> head to security tab --> then advance --> and double click on everyone --> once you are back in permissions change every user to read and execute</strong> press ok and close out the tabs for the properties.
 </p>
 <br />
+<p>
+<img src="https://i.imgur.com/2kYWhCm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+To end off the installation for osTicket. Head into the osTicket folder by <strong>clicking on This PC --> then windows (C:) --> select inetpub --> wwwroot --> and finally select osTicket. There we must delete the setup folder, in order to do so we must delete the contents with the folder. After deleting the contents within the setup folder we can move onto deleting the setup folder from osTicket. And congradulations you have completed the osTicket Installation.
+</p>
+<br />
