@@ -150,3 +150,10 @@ Now go back to the osTicket web browser as shown above and enter the new databas
 Once complete you will have this page appear letting you know that you've successfully created the osTicket system. The links below are for the user end and the staff as well.
 </p>
 <br />
+<p>
+<img src="https://i.imgur.com/cWrNy3w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Final step, head back to the folder where we were in the include folder. From there <strong>Rightclick properties--> head to security tab --> then advance --> and double click on everyone --> once you are back in permissions change every user to read and execute</strong> press ok and close out the tabs for the properties.
+</p>
+<br />
