@@ -70,7 +70,7 @@ Next press the install button and you should recieve a prompt on a new username 
 <img src="https://i.imgur.com/j1MGLmo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now we are going to install the PHP Manger and vcredist located within the <a href='https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6'>Link</a> to are google Drive for the lab. These 2 files can be found in your file explorer within the downloads as showen above.
+Now we are going to install the PHP Manger and vcredist located within the <a href='https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6'>Link</a> to are google Drive for the lab. These 2 files can be found in your file explorer within the downloads as shown above.
 </p>
 <br />
 <p>
@@ -105,7 +105,7 @@ After we are going to select the PHP Manager within the osTicket Home located in
 <img src="https://i.imgur.com/dRGPdWI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now we head back to are wwwroot folder within file explorer, from there we select <strong>osTicket--> Then include</strong>. When inside the include folder scroll down to the ost-sampleconfig.php to ost-config.php as showen above.
+Now we head back to are wwwroot folder within file explorer, from there we select <strong>osTicket--> Then include</strong>. When inside the include folder scroll down to the ost-sampleconfig.php to ost-config.php as shown above.
 </p>
 <br />
 <p>
@@ -119,21 +119,21 @@ After we changed the ost-sampleconfig.php to ost-config.php we will <strong>open
 <img src="https://i.imgur.com/vCXWto2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-If you've reached this page all the following steps have been completed successfully. Now simple fill out all the information as showen<strong>(Document The Admin User portion as well as the Database setting username and password will be needed for the lab).</strong>
+If you've reached this page all the following steps have been completed successfully. Now simple fill out all the information as shown<strong>(Document The Admin User portion as well as the Database setting username and password will be needed for the lab).</strong>
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/mQPzPDm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next we head back into are <a href='https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6'>Link</a> to are google Drive for the lab and download the HeidiSQL. Go through the complete download until the finish button is prompt, after you select finish the application will open as showen above.
+Next we head back into are <a href='https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6'>Link</a> to are google Drive for the lab and download the HeidiSQL. Go through the complete download until the finish button is prompt, after you select finish the application will open as shown above.
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/GhJrKSP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Select the add button on the button left, Heidi will prompt you to put in the password you create earlier when downloading the php files within WebPlatformInstaller 5.1. Enter the password and you will be sent to the page showen.Next <strong>rightclick unnamed --> then hover over create new --> and select Database</strong>. Name that dataase osTicket<strong>(it is important the spelling is correct)</strong>.
+Select the add button on the button left, Heidi will prompt you to put in the password you create earlier when downloading the php files within WebPlatformInstaller 5.1. Enter the password and you will be sent to the page shown.Next <strong>rightclick unnamed --> then hover over create new --> and select Database</strong>. Name that dataase osTicket<strong>(it is important the spelling is correct)</strong>.
 </p>
 <br />
 <p>
